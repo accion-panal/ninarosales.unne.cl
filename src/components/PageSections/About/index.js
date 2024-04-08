@@ -24,19 +24,19 @@ const AboutComponent = () => {
           </div>
           <div className="col-span-2 xl:col-span-1 ">
             <p className="text-lg xl:text-xl text-gray-700 mt-8 ml-0 xl:ml-1 xl:text-left">                    
-              En AGENZIA IMMOBILIARE, nos esforzamos por proporcionar un servicio que garantice el 
-              bienestar y la seguridad de nuestros clientes. Nuestro objetivo principal es superar 
-              sus expectativas al ofrecer transparencia en la información y un asesoramiento completo 
-              en todas las opciones disponibles para la venta y arriendo de propiedades. 
-              Nos comprometemos a brindar un enfoque profesional y confiable que garantice 
-              una experiencia satisfactoria en cada transacción inmobiliaria.
+            Cuento con siete años de experiencia en el sector inmobiliario, y desde hace tres años trabajo
+            de manera independiente. Esta labor es mi pasión, ya que considero que va más allá de 
+            simplemente arrendar o vender propiedades; implica ser capaz de ayudar a las personas a 
+            encontrar el hogar de sus sueños. Mi enfoque se centra en satisfacer todas las necesidades 
+            del cliente, desde la conectividad hasta la modernidad de los espacios. Para lograrlo, es 
+            fundamental conocer a fondo a cada cliente potencial y entender sus requerimientos específicos.
               <br />
             </p>
             <p className="text-lg xl:text-xl text-gray-700 mt-8 ml-0 xl:ml-1 md:text-center xl:text-left">
-              Daniela
+              Nina Rosales
             </p>
             <p className="text-xl xl:text-xl text-gray-700 ml-0 xl:ml-1 md:text-center xl:text-left">
-              Directora de AGENZIA IMMOBILIARE
+              Directora de NR. Propiedades
             </p>
           </div>
         </div>

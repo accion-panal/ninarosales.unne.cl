@@ -8,7 +8,7 @@ export const mainCarouselData = [
   {
     id: 1,
     title: 'NR PROPIEDADES',
-    desc: 'Un servicio que aporte bienestar y seguridad a nuestros clientes',
+    desc: 'Satisfacer todas las necesidades del cliente, desde la conectividad hasta la modernidad de los espacios.',
     img: 'https://res.cloudinary.com/dvdb33uyj/image/upload/v1689975597/Projects/unne/img/hero/tramite2.jpg',
   },
   {

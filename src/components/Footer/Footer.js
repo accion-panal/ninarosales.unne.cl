@@ -14,7 +14,7 @@ const Footer = () => (
         <div className='my-11 mx-14 2xl:my-1 2xl:mt-6 2xl:mx-20'>
           {/* <h2 className='text-7xl font-bold text-primary'>LOGO</h2> */}
           <a href='/inicio' smooth="true" >
-            <img src={LogoFooter} className='w-40 h-36 xl:w-48 xl:h-36'/>
+            <img src={LogoFooter} className='w-36 h-36 xl:w-36 xl:h-36'/>
           </a>
         </div>
       </div>
